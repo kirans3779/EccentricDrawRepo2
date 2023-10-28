@@ -1,0 +1,19 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+.tab-list{
+display: flex;
+justify-content: flex-start;
+}
+.tabs{
+    padding: 10px;
+   color:#fff;
+    border-radius: 16px;
+  background: #F2622E;
+  margin: 5px;
+}
